@@ -1,0 +1,10 @@
+label{
+    display: block;
+    margin: 20px;
+}
+fieldset{
+    margin: 20px;
+}
+.button{
+    display: block;
+}
